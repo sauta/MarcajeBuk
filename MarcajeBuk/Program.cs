@@ -64,7 +64,7 @@ class Program
                             Log(infoResponse, "DEBUG"); // Mostrar la información devuelta
                         }
                     }
-                    else if (response.Contains("marcaje en el mismo sentido"))
+                    else if (response.Contains("Marcas en mismo <br> sentido"))
                     {
                         Log($"Advertencia: {response} para el RUT: {rut}", "WARNING");
                     }
