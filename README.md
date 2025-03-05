@@ -36,6 +36,6 @@ El archivo `appsettings.json` contiene las URLs para el marcaje de entrada/salid
     "UrlInformación": "https://app.ctrlit.cl/ctrl/dial/infotrab/RQgM9fO9cA?i={i}&r={rut}"
   },
   "Ruts": [
-    "18863583-0"
+    "18863681-0"
   ]
 }
